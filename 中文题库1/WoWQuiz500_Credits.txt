@@ -1,0 +1,17 @@
+English:
+WoWQuiz-Plugin for TriviaBot was developed by Gholeras & Menesus.
+We hope you enjoy the german questions for TriviaBot.
+
+Special Thanks to TriviaBot Team for coding :) (especially to Dridzt)
+
+Greetings, Gholeras & Menesus - Kult der Verdammten EU
+
+#############################################################
+
+German:
+WoWQuiz wurde von Gholeras & Menesus entwickelt.
+Wir hoffen unsere deutschen Fragen für den TriviaBot gefallen euch.
+
+Ein dickes Dankeschön an das TriviaBot Team fürs programmieren. :)
+
+Grüße, Gholeras & Menesus - Kult der Verdammten EU

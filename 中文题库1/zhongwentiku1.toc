@@ -1,0 +1,18 @@
+## Interface: 60200
+## Title: zhongwentiku1
+## Notes: zhongwentiku1
+## Author: Quup
+
+# add the name of your question file below this line \/
+zhongwentiku1.lua
+
+# ---------------------------------------------------
+# DO NOT EDIT OR REMOVE ANYTHING BETWEEN THESE LINES!
+# ---------------------------------------------------
+## X-TriviaBot-Questions: 1
+## LoadOnDemand: 1
+## Dependencies: TriviaBot
+core.lua
+# ---------------------------------------------------
+# DO NOT EDIT OR REMOVE ANYTHING BETWEEN THESE LINES!
+# ---------------------------------------------------

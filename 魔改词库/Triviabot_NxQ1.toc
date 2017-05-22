@@ -1,0 +1,19 @@
+﻿## Interface: 60200
+## Title: Triviabot_NxQ1
+## Notes: Triviabot_NxQ1
+## Author: Krixaar
+## Version: 1.0.0
+
+# add the name of your question file below this line \/
+Triviabot_NxQ1.lua
+
+# ---------------------------------------------------
+# DO NOT EDIT OR REMOVE ANYTHING BETWEEN THESE LINES!
+# ---------------------------------------------------
+## X-TriviaBot-Questions: 1
+## LoadOnDemand: 1
+## Dependencies: TriviaBot
+core.lua
+# ---------------------------------------------------
+# DO NOT EDIT OR REMOVE ANYTHING BETWEEN THESE LINES!
+# ---------------------------------------------------
