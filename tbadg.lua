@@ -1372,3 +1372,4 @@ TriviaBot_Questions[1]['Question'][1847] = "清宫剧《宫锁心玉》的主题
 TriviaBot_Questions[1]['Question'][1848] = "“网络三剑客”之一的丁磊是国内哪一家门户网站的创始人？";TriviaBot_Questions[1]['Answers'][1848] = {"网易"};TriviaBot_Questions[1]['Category'][1848] = 3;TriviaBot_Questions[1]['Points'][1848] = 1;TriviaBot_Questions[1]['Hints'][1848] = {};
 TriviaBot_Questions[1]['Question'][1849] = "“断桥残雪”“平湖秋月”是我国哪个湖泊的著名景点？";TriviaBot_Questions[1]['Answers'][1849] = {"西湖"};TriviaBot_Questions[1]['Category'][1849] = 3;TriviaBot_Questions[1]['Points'][1849] = 1;TriviaBot_Questions[1]['Hints'][1849] = {};
 TriviaBot_Questions[1]['Question'][1850] = "《回到拉萨》是哪位中国著名摇滚男歌手的代表作品？";TriviaBot_Questions[1]['Answers'][1850] = {"郑钧"};TriviaBot_Questions[1]['Category'][1850] = 3;TriviaBot_Questions[1]['Points'][1850] = 1;TriviaBot_Questions[1]['Hints'][1850] = {};
+

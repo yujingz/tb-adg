@@ -2,7 +2,7 @@
 ## Title: ADG 词库
 ## Notes: ADG 词库
 ## Author: ADG
-## Version: 1.0.1
+## Version: 1.0.0
 
 # add the name of your question file below this line \/
 tbadg.lua
