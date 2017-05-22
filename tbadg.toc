@@ -1,0 +1,19 @@
+## Interface: 70100
+## Title: ADG 词库
+## Notes: ADG 词库
+## Author: ADG
+## Version: 1.0.1
+
+# add the name of your question file below this line \/
+tbadg.lua
+
+# ---------------------------------------------------
+# DO NOT EDIT OR REMOVE ANYTHING BETWEEN THESE LINES!
+# ---------------------------------------------------
+## X-TriviaBot-Questions: 1
+## LoadOnDemand: 1
+## Dependencies: TriviaBot
+core.lua
+# ---------------------------------------------------
+# DO NOT EDIT OR REMOVE ANYTHING BETWEEN THESE LINES!
+# ---------------------------------------------------
