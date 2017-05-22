@@ -1,0 +1,19 @@
+﻿## Interface: 70100
+## Title: ShiyaQuiz |cff69cdf0子夜的题库|r 内容更新至|cff69cdf07.1|r
+## Notes: 子夜的题库——包括三种类型题目的中文题库
+## Author: 子夜@密林游侠
+## Version: 1.0.1
+
+# add the name of your question file below this line \/
+ShiyaQuiz.lua
+
+# ---------------------------------------------------
+# DO NOT EDIT OR REMOVE ANYTHING BETWEEN THESE LINES!
+# ---------------------------------------------------
+## X-TriviaBot-Questions: 1
+## LoadOnDemand: 1
+## Dependencies: TriviaBot
+core.lua
+# ---------------------------------------------------
+# DO NOT EDIT OR REMOVE ANYTHING BETWEEN THESE LINES!
+# ---------------------------------------------------
